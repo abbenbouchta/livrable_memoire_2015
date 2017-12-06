@@ -1,6 +1,6 @@
 #!/bin/bash
 # un fichier dois d'abort exister sinon le creer avec:
-# creer le fcicheir nano /var/lib/poqtgresql/LE3.dum
+# creer le fcicheir nano /var/lib/poqtgresql/LE3.dump
 # creer le fcicheir sauv.sh
 # render sauv.sh excexutable : chmod +x sauv.sh
 # pour executer le script: ./sauv.sh
